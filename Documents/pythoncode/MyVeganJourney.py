@@ -4,8 +4,8 @@ import mysql.connector
 
 bmi = mysql.connector.connect(
     host = '127.0.0.1',
-    user = 'btodd',
-    password = 'Seahawksbdrizzle1',
+    user = #user,
+    password = #password,
     database = 'Vegan'
 )
 
